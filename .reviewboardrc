@@ -1,0 +1,4 @@
+REVIEWBOARD_URL = "clarity28.eecs.umich.edu"
+REPOSITORY = "tutorial"
+BRANCH = "master"
+LAND_DEST_BRANCH = "master"
