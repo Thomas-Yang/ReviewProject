@@ -1,0 +1,10 @@
+diff --git a/README.md b/README.md
+index b4c94d8e48bfb1bc8eb6bd8b8c9f7cdd99384094..c1e31ade39dd000666dfbed3fe1192b046956981 100644
+--- a/README.md
++++ b/README.md
+@@ -5,3 +5,5 @@ This is a new test for requesting a review
+ Some changes...
+ Aha, something comes again...
+ Watch out, this one comes from CLI
++
++Try it out. It is fun.
